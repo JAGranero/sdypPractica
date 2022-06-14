@@ -2,8 +2,8 @@
 #include<stdlib.h>
 #include<time.h>
 //Dimension de la matriz
-int dim = 100;
-int ciclos= 1000;
+int dim = 10;
+int ciclos= 10;
 
 
 //Nuestra la matriz
